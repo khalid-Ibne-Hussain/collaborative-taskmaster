@@ -91,7 +91,7 @@ const Tasks = () => {
           </div>
         </div>
         <div className="col-span-3 border-l-2 border-secondary/20 px-10 pt-10">
-          <div>
+          {/* <div>
             <h1 className="text-xl">Members</h1>
             <div className="flex gap-3 mt-3">
               <div className="h-10 w-10 rounded-xl overflow-hidden">
@@ -130,7 +130,7 @@ const Tasks = () => {
                 />
               </div>
             </div>
-          </div>
+          </div> */}
           <MyTasks />
         </div>
       </div>
